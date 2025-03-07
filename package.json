@@ -2,6 +2,7 @@
   "name": "webDriverIO",
   "type": "module",
   "devDependencies": {
+    "@evinced/webdriverio-sdk": "file:webdriverio-sdk-2.9.0.tgz",
     "@wdio/cli": "^9.11.0"
   },
   "scripts": {
